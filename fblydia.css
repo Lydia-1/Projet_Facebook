@@ -1,0 +1,115 @@
+#one {float:right;
+}
+
+#tableau {display: inline-block;
+	    float: right;
+	    margin-right: 20px;
+	    margin-top: -3px;
+	    padding-bottom: 2px;
+	    padding-left: 2px;
+	    padding-right: 2px;
+	    width: 40%;
+			}
+
+label {color: white;
+}
+#tableau a {font-size: 9px;
+		color: white;
+}
+#top {	width: 100%;
+		height: 100px;
+		margin: auto;
+		padding: 0px;
+		background-color: #3a5795;
+		margin:0px;
+		margin-top: -25px;
+	}
+.one {float: right;
+	display: inline-block;
+	margin-right: 30px;
+	width: 20%;
+	
+}
+
+
+.two {	float: right;
+		background-color: blue;
+		color: white;
+		margin-right: 30px;
+	width: 20%;
+
+}
+	}
+table {display: inline-table;}
+
+.logo {height: 5px;
+		width: 5px;
+		margin-left: 20px;
+		padding: 13px;
+		
+		position: relative;
+	}
+
+.un {color: #0e385f;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    margin-left: 90px;
+    width: 450px;
+    word-spacing: -1px;
+    }
+
+
+.deux {padding: 5px;}
+    #container {background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(white, #d3d8e8);
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;}
+
+
+   #content {margin-left: 50px;
+   	float: left;}
+
+   	#slidebar {float: right;
+   				margin-right: 150px;}
+   	#aline {display: inline-block;}
+   	#aline p {font-size: 10px;
+   				color: #A7A37E;}
+   	#aline h5 {font-size: 13px;
+   				color: black;}
+   #aline a {color: blue;
+   }
+
+#bouton { 
+		text-align: center;
+		font:bold  Arial;
+		background:#40A44A;
+		color:white;
+		border-radius:10px;
+		margin-left: 10%;
+		width:200px;
+		height: 40px;
+		margin-bottom: 70px;
+		
+		border:1px solid #ccc;
+		
+   	}
+
+   	h5  {color: #B4AF91;
+   			font-size: 13px;} 
+
+#footer {
+    height: 100px;
+   
+    margin-top: 600px;
+    bottom: 0;
+}
+#footer a {font-size: 12px;
+			margin-left: 20px;
+			text-align: center;
+			background-color: white;}
